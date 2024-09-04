@@ -17,7 +17,7 @@ This repository contains a Tableau dashboard that visualizes the total player va
 To explore the dashboard, download the `.twbx` file and open it using [Tableau Desktop](https://www.tableau.com/products/desktop) or [Tableau Public](https://public.tableau.com/s/). The dashboard will render the map and table for interactive exploration.
 
 ## Dashboard Preview:
-![Dashboard Preview](images/Demo%20Dashboard.png)
+![Dashboard Preview](images/DemoDashboard.png)
 
 ## Data:
 The data used in this dashboard is fictional and aims to represent player values across different countries for various clubs.
